@@ -1,5 +1,5 @@
-<div class="github-card" data-github="zmeribaa" data-width="400" data-height="317" data-theme="medium"></div>
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+
+
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://i.pinimg.com/564x/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.jpg" alt="Python" height="40" style="vertical-align:top; margin:4px">
