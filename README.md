@@ -1,5 +1,7 @@
 [![zmeribaa's 42 stats](https://badge42.vercel.app/api/v2/cl29kigzm004909ml4gwyxcle/stats?cursusId=21&coalitionId=79)](https://github.com/JaeSeoKim/badge42)
+# Exam Rank 03
 [![zmeribaa's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl29kigzm004909ml4gwyxcle/project/2423443)](https://github.com/JaeSeoKim/badge42)
+# Exam Rank 02 
 [![zmeribaa's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl29kigzm004909ml4gwyxcle/project/2423443)](https://github.com/JaeSeoKim/badge42)
 ## 🧰 Languages and Tools:
 <p align="center">
