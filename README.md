@@ -1,4 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zmeribaa&show_icons=true&theme=dark)
 [![zmeribaa's 42 stats](https://badge42.vercel.app/api/v2/cl29kigzm004909ml4gwyxcle/stats?cursusId=21&coalitionId=79)](https://github.com/JaeSeoKim/badge42)
 ## 🧰 Languages and Tools:
 <p align="center">
